@@ -1,0 +1,12 @@
+2024-02-23 14:48:42,071 - INFO - START unzip_automation =============================================
+2024-02-23 14:48:42,071 - INFO - START unzip_automation Start Time = 2024-02-23 14:48:42
+2024-02-23 14:48:42,071 - INFO - unzip_automation Step 0 - Initialize the configuration file parser
+2024-02-23 14:48:42,220 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-02-23 14:48:42,220 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-02-23 14:48:48,282 - INFO - Process unzip_automation Step 0 - Initializing and starting Logging Process.
+2024-02-23 14:48:54,464 - INFO - Process unzip_automation - Step 1 - create watch dog functions to check for data files
+2024-02-23 14:48:54,526 - INFO - PERFORMANCE unzip_automation The total process duration was:12.45
+2024-02-23 14:48:54,526 - INFO - PERFORMANCE unzip_automation Stop Time = 2024-02-23 14:48:54
+2024-02-23 14:48:54,526 - INFO - PERFORMANCE unzip_automation Low process duration less than 3 minutes:12.45
+2024-02-23 14:48:54,527 - INFO - PERFORMANCE unzip_automation Performance optimization is optional
+2024-02-23 14:48:54,527 - INFO - END unzip_automation =============================================
