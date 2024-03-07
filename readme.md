@@ -6,10 +6,6 @@
 
 Welcome to the ** Unzip Automation ** Unzip Automation  - Scan for ZIP files and uncompress
 
-![Code Logo](code.png)
-
-## NOTE - THIS REPOSITORY WORK IN PROGRESS 
-
 The are many ways to do this. It isnt perfect !!! so Experiment. Branch it, configure it, and Change it. 
 
 ## Features
