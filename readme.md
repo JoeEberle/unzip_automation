@@ -1,6 +1,6 @@
 # Unzip Automation  - Scan for ZIP files and uncompress
 
-![Code Logo](code.png)
+![Code Logo](unzip_automation.png)
 
 ## Description
 
