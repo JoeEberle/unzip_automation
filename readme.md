@@ -1,10 +1,10 @@
-# Unzip Automation  - Scan for ZIP files and uncompressed
+# Unzip Automation  - Scan for ZIP files and uncompress
 
 ![Code Logo](code.png)
 
 ## Description
 
-Welcome to the ** Unzip Automation ** Unzip Automation  - Scan for ZIP files and uncompressed
+Welcome to the ** Unzip Automation ** Unzip Automation  - Scan for ZIP files and uncompress
 
 ![Code Logo](code.png)
 
@@ -16,7 +16,7 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it, conf
 
 - Easy to understand and use  
 - Easily Configurable 
-- Protects your important Data
+- Automatically Unzip files and place them anywhere
 - Its Fast and Automated
 - It can be scheduled so you never forget 
 
