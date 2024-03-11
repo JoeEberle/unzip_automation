@@ -1,0 +1,11 @@
+2024-03-10 17:24:42,666 - INFO - START create_solution =============================================
+2024-03-10 17:24:42,666 - INFO - START create_solution Start Time = 2024-03-10 17:24:42
+2024-03-10 17:24:42,666 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2024-03-10 17:24:42,667 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2024-03-10 17:24:42,693 - INFO - Process create_solution Step 1 - Define the name and definition of new solution.
+2024-03-10 17:24:42,726 - INFO - Process create_solution Step 2 - create new solution template in c:\\users\\josep\\epidemiology_methodology .
+2024-03-10 17:24:42,754 - INFO - PERFORMANCE create_solution The total process duration was:0.09
+2024-03-10 17:24:42,754 - INFO - PERFORMANCE create_solution Stop Time = 2024-03-10 17:24:42
+2024-03-10 17:24:42,754 - INFO - PERFORMANCE create_solution Short process duration less than 3 Seconds:0.09
+2024-03-10 17:24:42,754 - INFO - PERFORMANCE create_solution Performance optimization is not reccomended
+2024-03-10 17:24:42,754 - INFO - END create_solution =============================================
