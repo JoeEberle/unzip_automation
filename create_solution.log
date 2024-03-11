@@ -9,3 +9,9 @@
 2024-03-10 17:24:42,754 - INFO - PERFORMANCE create_solution Short process duration less than 3 Seconds:0.09
 2024-03-10 17:24:42,754 - INFO - PERFORMANCE create_solution Performance optimization is not reccomended
 2024-03-10 17:24:42,754 - INFO - END create_solution =============================================
+2024-03-10 17:33:45,967 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-03-10 17:33:45,967 - INFO - NumExpr defaulting to 8 threads.
+2024-03-10 17:33:58,152 - INFO - Process create_solution Step 1 - Import in the solutions excel File so you have a list of projects.
+2024-03-10 18:16:18,341 - INFO - Process create_solution Step 1 - Define the name and definition of new solution.
+2024-03-10 18:16:37,700 - INFO - Process create_solution Step 1 - Define the name and definition of new solution.
+2024-03-10 19:59:19,778 - INFO - Process create_solution Step 1 - Import in the solutions excel File so you have a list of projects.
