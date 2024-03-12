@@ -1,0 +1,5 @@
+2024-03-10 23:28:30,636 - INFO - START create_solution =============================================
+2024-03-10 23:28:30,636 - INFO - START create_solution Start Time = 2024-03-10 23:28:30
+2024-03-10 23:28:30,636 - INFO - create_solution Step 0 - Initialize the configuration file parser
+2024-03-10 23:28:30,636 - INFO - Process create_solution Step 0 - Initializing and starting Logging Process.
+2024-03-10 23:45:14,192 - INFO - Process create_solution Step 1 - Define the name and definition of new solution.
