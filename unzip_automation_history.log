@@ -15,3 +15,35 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-03-29 09:24:58,781 - INFO - START unzip_automation =============================================
+2024-03-29 09:24:58,781 - INFO - START unzip_automation Start Time = 2024-03-29 09:24:58
+2024-03-29 09:24:58,781 - INFO - unzip_automation Step 0 - Initialize the configuration file parser
+2024-03-29 09:24:58,781 - INFO - Process unzip_automation Step 0 - Initializing and starting Logging Process.
+2024-03-29 09:24:58,808 - INFO - Process unzip_automation Step 1 - setup the directories to unzip and establish where to unzip the files .
+2024-03-29 09:24:58,917 - INFO - Process unzip_automation - Step 1 - create watch dog functions to check for data files
+2024-03-29 09:24:59,010 - INFO - PERFORMANCE unzip_automation The total process duration was:0.23
+2024-03-29 09:24:59,010 - INFO - PERFORMANCE unzip_automation Stop Time = 2024-03-29 09:24:59
+2024-03-29 09:24:59,010 - INFO - PERFORMANCE unzip_automation Short process duration less than 3 Seconds:0.23
+2024-03-29 09:24:59,010 - INFO - PERFORMANCE unzip_automation Performance optimization is not reccomended
+2024-03-29 09:24:59,010 - INFO - END unzip_automation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-03-29 09:26:56,629 - INFO - START unzip_automation =============================================
+2024-03-29 09:26:56,629 - INFO - START unzip_automation Start Time = 2024-03-29 09:26:56
+2024-03-29 09:26:56,629 - INFO - unzip_automation Step 0 - Initialize the configuration file parser
+2024-03-29 09:26:56,630 - INFO - Process unzip_automation Step 0 - Initializing and starting Logging Process.
+2024-03-29 09:26:56,655 - INFO - Process unzip_automation Step 1 - setup the directories to unzip and establish where to unzip the files .
+2024-03-29 09:26:56,765 - INFO - Process unzip_automation - Step 1 - create watch dog functions to check for data files
+2024-03-29 09:26:56,861 - INFO - PERFORMANCE unzip_automation The total process duration was:0.23
+2024-03-29 09:26:56,861 - INFO - PERFORMANCE unzip_automation Stop Time = 2024-03-29 09:26:56
+2024-03-29 09:26:56,861 - INFO - PERFORMANCE unzip_automation Short process duration less than 3 Seconds:0.23
+2024-03-29 09:26:56,861 - INFO - PERFORMANCE unzip_automation Performance optimization is not reccomended
+2024-03-29 09:26:56,861 - INFO - END unzip_automation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
