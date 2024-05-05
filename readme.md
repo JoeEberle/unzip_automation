@@ -44,4 +44,7 @@ To get started with the **Unzip Automation** solution repository, follow these s
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](solution_stacked_sign.png)  <br>![additional_image](unzip_automation.png)  <br>![additional_image](window_task_scheduling.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](solution_stacked_sign.png)  <br>![additional_image](unzip_automation.png)  <br>![additional_image](window_task_scheduling.png)  <br>
+    
