@@ -1,11 +1,11 @@
-2024-03-29 09:26:56,629 - INFO - START unzip_automation =============================================
-2024-03-29 09:26:56,629 - INFO - START unzip_automation Start Time = 2024-03-29 09:26:56
-2024-03-29 09:26:56,629 - INFO - unzip_automation Step 0 - Initialize the configuration file parser
-2024-03-29 09:26:56,630 - INFO - Process unzip_automation Step 0 - Initializing and starting Logging Process.
-2024-03-29 09:26:56,655 - INFO - Process unzip_automation Step 1 - setup the directories to unzip and establish where to unzip the files .
-2024-03-29 09:26:56,765 - INFO - Process unzip_automation - Step 1 - create watch dog functions to check for data files
-2024-03-29 09:26:56,861 - INFO - PERFORMANCE unzip_automation The total process duration was:0.23
-2024-03-29 09:26:56,861 - INFO - PERFORMANCE unzip_automation Stop Time = 2024-03-29 09:26:56
-2024-03-29 09:26:56,861 - INFO - PERFORMANCE unzip_automation Short process duration less than 3 Seconds:0.23
-2024-03-29 09:26:56,861 - INFO - PERFORMANCE unzip_automation Performance optimization is not reccomended
-2024-03-29 09:26:56,861 - INFO - END unzip_automation =============================================
+2024-05-17 08:42:30,048 - INFO - START unzip_automation =============================================
+2024-05-17 08:42:30,048 - INFO - START unzip_automation Start Time = 2024-05-17 08:42:30
+2024-05-17 08:42:30,048 - INFO - unzip_automation Step 0 - Initialize the configuration file parser
+2024-05-17 08:42:30,049 - INFO - Process unzip_automation Step 0 - Initializing and starting Logging Process.
+2024-05-17 08:42:30,074 - INFO - Process unzip_automation Step 1 - setup the directories to unzip and establish where to unzip the files .
+2024-05-17 08:42:30,181 - INFO - Process unzip_automation - Step 1 - create watch dog functions to check for data files
+2024-05-17 08:42:30,289 - INFO - PERFORMANCE unzip_automation The total process duration was:0.24
+2024-05-17 08:42:30,289 - INFO - PERFORMANCE unzip_automation Stop Time = 2024-05-17 08:42:30
+2024-05-17 08:42:30,289 - INFO - PERFORMANCE unzip_automation Short process duration less than 3 Seconds:0.24
+2024-05-17 08:42:30,290 - INFO - PERFORMANCE unzip_automation Performance optimization is not reccomended
+2024-05-17 08:42:30,290 - INFO - END unzip_automation =============================================
