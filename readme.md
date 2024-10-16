@@ -37,11 +37,8 @@ To get started with the **Unzip Automation** solution repository, follow these s
  ![additional_image](unzip_automation.png)  <br>![additional_image](window_task_scheduling.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
