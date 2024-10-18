@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Unzip Automation 
-    ## Solution for Unzip Automation
+    
+# Unzip Automation 
+
+## Solution for Unzip Automation
+
     ![Image image_filename](code.png)
 Automating the process of unzipping file downloads can significantly enhance productivity by eliminating the need for manual intervention. By employing scripts or software tools to automatically unzip downloaded files, users can save valuable time and streamline workflows. This approach reduces the risk of errors, ensures timely access to data, and allows individuals to focus on more strategic tasks, ultimately enhancing overall efficiency.
 ![Image image_filename](code.png)![Image image_filename](sample.png)
@@ -23,9 +26,9 @@ To get started with the **Unzip Automation** solution repository, follow these s
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Unzip Automation** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -35,6 +38,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](unzip_automation.png)  <br>![additional_image](window_task_scheduling.png)  <br>
