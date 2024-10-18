@@ -2,6 +2,9 @@
 Automating the process of unzipping file downloads can significantly enhance productivity by eliminating the need for manual intervention. By employing scripts or software tools to automatically unzip downloaded files, users can save valuable time and streamline workflows. This approach reduces the risk of errors, ensures timely access to data, and allows individuals to focus on more strategic tasks, ultimately enhancing overall efficiency.
 ![Image image_filename](sample.png)
 ## Getting Started
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 To get started with the **Unzip Automation** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
@@ -16,7 +19,7 @@ To get started with the **Unzip Automation** solution repository, follow these s
 
 ## Notebook Features
 
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+These Features are design to provide everything you need for **Knowledge Transfer** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
