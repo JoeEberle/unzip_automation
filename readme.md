@@ -8,20 +8,6 @@
 ![Solution](code.png)
 
     
-## Table of Contents
-
-- [Solution Overview](#solution-overview)
-- [Who will use this ?](#who-can-use)
-- [Advantages of Using](#advantages-of-using)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Code Features](#code-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
 
 Automating the process of unzipping file downloads can significantly enhance productivity by eliminating the need for manual intervention. By employing scripts or software tools to automatically unzip downloaded files, users can save valuable time and streamline workflows. This approach reduces the risk of errors, ensures timely access to data, and allows individuals to focus on more strategic tasks, ultimately enhancing overall efficiency.
 
@@ -50,18 +36,17 @@ To get started with the **Unzip Automation** solution repository, follow these s
 - Saves You Time 
 
 
-## Code Features
 
-These features are designed to provide everything you need for **Unzip Automation** 
+## ⚙️ Key Features
 
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
+- ✅ **Self Documenting** Automatically identifies and annotates major steps in a notebook, making the codebase readable and well structured.
+- ✅ **Self Testing** Includes built in **unit tests** for each function to validate logic and ensure code reliability.
+- ✅ **Easily Configurable** Uses a simple **config.ini** file for centralized settings and easy customization through key value pairs.
+- ✅ **Talking Code** explains itself through inline commentary, helping you understand both **what** it does and **why** it does it.
+- ✅ **Self Logging** extends Python’s standard **logging** module for **step by step runtime insights**.
+- ✅ **Self Debugging** Includes debugging hooks and detailed error tracing to simplify development and troubleshooting.
+- ✅ **Low Code or  No Code** Designed to minimize complexity — most full solutions are under 50 lines of code.
+- ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
 ## List of Figures
