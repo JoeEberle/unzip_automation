@@ -4,19 +4,9 @@
 
 ## Solution for Unzip Automation
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 Automating the process of unzipping file downloads can significantly enhance productivity by eliminating the need for manual intervention. By employing scripts or software tools to automatically unzip downloaded files, users can save valuable time and streamline workflows. This approach reduces the risk of errors, ensures timely access to data, and allows individuals to focus on more strategic tasks, ultimately enhancing overall efficiency.
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
